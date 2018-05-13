@@ -1,0 +1,16 @@
+{
+  "name": "nodemailer-tutorial",
+  "version": "1.0.0",
+  "description": "Base node application for testing nodemailer package",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jose Padilla",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "nodemailer": "^4.6.4"
+  }
+}
